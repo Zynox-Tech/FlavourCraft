@@ -1,0 +1,81 @@
+/* app/styles/articles.module.css */
+.articlesSection {
+    background-color: #fff;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .categories {
+    margin-bottom: 40px;
+  }
+  
+  .categories h2 {
+    font-size: 1.6rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .categories h1{
+    font-size: 3rem;
+    color: #007bff;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .categories ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .categories li {
+    flex: 1 1 calc(50% - 20px);
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    transition: background-color 0.3s;
+  }
+  
+  .categories li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .articlesList h2 {
+    font-size: 3rem;
+    color: #007bff;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .articleCard {
+    background-color: #f9f9f9;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .articleCard:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .articleCard h3 {
+    font-size: 1.75rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .articleCard p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  

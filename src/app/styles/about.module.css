@@ -1,0 +1,76 @@
+/* app/styles/about.module.css */
+.aboutSection {
+    background-color: #fff;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .ourStory {
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+  .ourStory h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .storyContent h3 {
+    font-size: 2rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  .storyContent p {
+    font-size: 1.2rem;
+    color: #666;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .meetTheTeam {
+    text-align: center;
+  }
+  
+  .meetTheTeam h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  .teamMembers {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .teamMember {
+    max-width: 45%;
+    margin-bottom: 40px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .teamMember:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .teamMember h3 {
+    font-size: 1.75rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .teamMember p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  

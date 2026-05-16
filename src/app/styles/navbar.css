@@ -1,0 +1,72 @@
+/* Navbar Section */
+.navbar-section {
+    background-color: #ffffff; /* White background */
+    border-bottom: 1px solid #e0e0e0; /* Light gray border for separation */
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  /* Navbar Logo */
+  .navbar-logo {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: black;
+    text-transform: capitalize;
+  }
+  
+  .navbar-logo h1 {
+    margin: 0;
+    display: inline;
+  }
+  
+  .navbar-logo span {
+    color: #007bff; /* Primary color for the accent */
+  }
+  
+  /* Navbar Navigation */
+  .navbar-nav {
+    display: flex;
+  }
+  
+  .navbar-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-right: 30px;
+  }
+  
+  .navbar-nav li {
+    margin: 0 15px;
+    position: relative; /* For positioning the pseudo-element */
+  }
+  
+  .navbar-nav a {
+    text-decoration: none;
+    color: #007bff; /* Primary link color */
+    font-size: 1.1em;
+    font-weight: 500;
+    position: relative; /* For positioning the pseudo-element */
+    padding-bottom: 5px; /* Space for the underline effect */
+    transition: color 0.3s ease, font-weight 0.3s ease;
+  }
+  
+  .navbar-nav a::after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: transparent; /* Default color */
+    transition: background-color 0.3s ease;
+  }
+  
+  .navbar-nav a:hover::after,
+  .navbar-nav a.active::after {
+    background-color: #007bff; /* Color of the underline effect */
+  }
+  
