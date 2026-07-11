@@ -1,38 +1,211 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FlavorCraft — AI Recipe Discovery Platform
 
-## Getting Started
+A modern AI-powered recipe platform built with **Next.js** that helps users discover creative recipes and cooking ideas based on ingredients, preferences, and food inspiration.
 
-First, run the development server:
+FlavorCraft delivers a smooth and interactive cooking experience with a clean interface, responsive design, and modern web technologies.
+
+---
+
+# Developed By
+
+## Zynox Tech
+
+Website: https://zynoxtech.site  
+Email: hello@zynoxtech.site  
+Location: Abbottabad, Pakistan
+
+Zynox Tech is a software development company specializing in modern web applications, mobile applications, AI-powered solutions, enterprise software, and custom digital products.
+
+We help startups, businesses, and organizations transform ideas into scalable, reliable, and user-focused technology solutions.
+
+For software development services and project collaborations:
+
+Website: https://zynoxtech.site  
+Email: hello@zynoxtech.site
+
+---
+
+# Project Overview
+
+FlavorCraft is an AI-based recipe application designed to make cooking smarter and more creative.
+
+The platform allows users to explore recipe ideas, discover food combinations, and generate personalized cooking suggestions through modern AI technology.
+
+The project focuses on:
+
+- AI-powered recipe experiences
+- Modern user interface
+- Responsive design
+- Fast performance
+- Scalable frontend architecture
+- Smooth user interactions
+
+---
+
+# Features
+
+- AI-powered recipe suggestions
+- Ingredient-based recipe discovery
+- Modern responsive design
+- Clean and intuitive interface
+- Fast loading experience
+- Mobile-friendly layout
+- Reusable components
+- Easy customization
+
+---
+
+# Technology Stack
+
+- Next.js
+- React
+- TypeScript / JavaScript
+- Tailwind CSS
+- AI Integration
+- Vercel Deployment
+
+---
+
+# Getting Started
+
+## Requirements
+
+Make sure you have installed:
+
+- Node.js (v18 or later)
+- npm, yarn, pnpm, or bun
+
+Check your Node.js version:
+
+```bash
+node --version
+```
+
+---
+
+# Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/flavorcraft.git
+```
+
+Navigate into the project:
+
+```bash
+cd flavorcraft
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+# Run Development Server
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The application will automatically update as you edit the project files.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+flavorcraft/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+├── app/
+│   ├── layout.js
+│   ├── page.js
+│   └── globals.css
 
-## Deploy on Vercel
+├── public/
+│   └── images/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+├── components/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+├── package.json
+├── next.config.js
+└── README.md
+```
 
-# flavorcraft
+---
+
+# Customization
+
+You can customize:
+
+- Recipe categories
+- AI prompts
+- Images
+- Branding
+- UI components
+- Website content
+- SEO metadata
+
+Main files:
+
+```
+app/page.js
+app/layout.js
+```
+
+---
+
+# Production Build
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Start the production server:
+
+```bash
+npm start
+```
+
+---
+
+# Deployment
+
+FlavorCraft can be deployed on any platform supporting Next.js applications.
+
+Recommended platforms:
+
+- Vercel
+- Netlify
+- AWS
+- DigitalOcean
+
+---
+
+# License
+
+This project was developed by **Zynox Tech**.
+
+For custom software development, AI solutions, and digital product development:
+
+Zynox Tech  
+Website: https://zynoxtech.site  
+Email: hello@zynoxtech.site  
+
+---
+
+Developed by **Zynox Tech**  
+Abbottabad, Pakistan
