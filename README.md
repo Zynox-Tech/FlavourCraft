@@ -6,17 +6,49 @@ Built with **Next.js** and modern web technologies, the platform helps users exp
 
 ---
 
-# Application Preview
+# Application Showcase
 
-<img width="1831" height="886" alt="FlavorCraft Recipe Platform" src="https://github.com/user-attachments/assets/8eb6ae7a-b30d-4f3e-9464-7365eea49bec" />
+Explore the modern interface and AI-powered recipe discovery experience of **FlavorCraft**.
 
-<img width="1821" height="871" alt="FlavorCraft Recipe Discovery" src="https://github.com/user-attachments/assets/6bd36391-5843-4659-85c7-4538c1161a68" />
+The application is designed with a clean visual hierarchy, responsive layouts, and an intuitive user experience focused on making recipe discovery simple and engaging.
 
-<img width="1831" height="898" alt="FlavorCraft Recipe Interface" src="https://github.com/user-attachments/assets/26147f96-87c0-406c-9521-a65e82706a53" />
+<br>
 
-<img width="1828" height="901" alt="FlavorCraft Cooking Experience" src="https://github.com/user-attachments/assets/4f365db8-3e15-4caa-a626-08fdbb49c865" />
+<div align="center">
 
-<img width="1822" height="897" alt="FlavorCraft Homepage" src="https://github.com/user-attachments/assets/0b24a642-04a0-4519-9b8c-13c870b73965" />
+### Home & Recipe Discovery
+
+<img width="1831" height="886" alt="FlavorCraft Home and Recipe Discovery Interface" src="https://github.com/user-attachments/assets/8eb6ae7a-b30d-4f3e-9464-7365eea49bec" />
+
+<br><br>
+
+### Interactive Recipe Experience
+
+<img width="1821" height="871" alt="FlavorCraft Interactive Recipe Experience" src="https://github.com/user-attachments/assets/6bd36391-5843-4659-85c7-4538c1161a68" />
+
+<br><br>
+
+### AI-Powered Recipe Discovery
+
+<img width="1831" height="898" alt="FlavorCraft AI Recipe Discovery Interface" src="https://github.com/user-attachments/assets/26147f96-87c0-406c-9521-a65e82706a53" />
+
+<br><br>
+
+### Modern Cooking Interface
+
+<img width="1828" height="901" alt="FlavorCraft Modern Cooking Interface" src="https://github.com/user-attachments/assets/4f365db8-3e15-4caa-a626-08fdbb49c865" />
+
+<br><br>
+
+### Responsive Recipe Platform
+
+<img width="1822" height="897" alt="FlavorCraft Responsive Recipe Platform" src="https://github.com/user-attachments/assets/0b24a642-04a0-4519-9b8c-13c870b73965" />
+
+</div>
+
+<br>
+
+> FlavorCraft combines modern web design with AI-powered recipe discovery to deliver a fast, intuitive, and visually engaging cooking experience.
 
 ---
 
@@ -75,7 +107,7 @@ The project focuses on:
 
 FlavorCraft uses AI-based functionality to provide creative recipe inspiration and cooking suggestions.
 
-The platform is designed to help users discover meals based on:
+The platform helps users discover meals based on:
 
 * Available ingredients
 * Cooking inspiration
